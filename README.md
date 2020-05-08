@@ -1,4 +1,4 @@
-# Nine Digital Coding Challenge
+# Express Json Server
 
 ## Setup
 
